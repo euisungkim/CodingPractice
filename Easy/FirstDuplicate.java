@@ -1,4 +1,4 @@
-package Easy.firstDuplicate;
+package Easy;
 import java.util.LinkedHashSet;
 
 /*
