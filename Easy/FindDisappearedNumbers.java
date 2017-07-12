@@ -65,7 +65,8 @@ public class FindDisappearedNumbers {
     // Negating existing numbers by using indice
     for (int i : nums)
     {
-      if (nums[Math.abs(i) - 1] > 0) nums[Math.abs(i) - 1] *= -1;
+      if (nums[i - 1] > 0)
+        nums[i - 1] *= -1;
     }
 
     // All existing numbers are negative;
