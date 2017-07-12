@@ -13,7 +13,7 @@
 |[Reverse Words III](https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description)|[Java](./Easy/ReverseWordsIII.java)|LeetCode|
 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)|[Java](./Easy/MaxDepthOfBinaryTree.java)|LeetCode|
 |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/#/description)|[Java](./Easy/MaxConsecutiveOnes.java)|LeetCode|
-|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)|[Java](./Easy/FindDisappearedNumber.java)|LeetCode|
+|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)|[Java](./Easy/FindDisappearedNumbers.java)|LeetCode|
 
 ## Medium
 
