@@ -21,11 +21,14 @@ public class MergeTwoBinaryTrees {
   Base case: Both tree 1 and tree 2 are null
   Otherwise, depending on the condition,
 
-  Time Complexity: O(t1 * t2).
+  Time Complexity: O(t1 + t2).
     * Since number of nodes are not specified,
-    * it takes t1 * t2 amount of time to merge.
-  Space Complexity: O(t1 * t2).
-    * Since this is a recursive algorithm -
+    * it takes t1 + t2 amount of time to merge.
+  Space Complexity: O(t1 + t2).
+    * Space Complexity of an algorithm is total space taken by the algorithm with respect to the input size.
+    * There are two parameters (inputs): t1 and t2.
+    * There are (t1.size + t2.size) required to do recursion.
+    * In addition, since this is a recursive algorithm -
     * It needs to save the information in memory until
     * It reaches the base case for both binary trees.
   */
