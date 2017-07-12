@@ -11,6 +11,7 @@
 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description)|[Java](./Easy/MergeTwoSortedLists.java)|LeetCode|
 |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description)|[Java](./Easy/MergeTwoBinaryTrees.java)|LeetCode|
 |[Reverse Words III](https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description)|[Java](./Easy/ReverseWordsIII.java)|LeetCode|
+|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/#/description)|[Java](./Easy/MaxDepthOfBinaryTree.java)|LeetCode
 
 ## Medium
 
