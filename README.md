@@ -15,7 +15,8 @@
 |[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/#/description)|[Java](./Easy/MaxConsecutiveOnes.java)|LeetCode|
 |[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/#/description)|[Java](./Easy/FindDisappearedNumbers.java)|LeetCode|
 |[Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)|[Java](./Easy/FindWords.java)|LeetCode|
-|[removeKFromList](./Easy/RemoveKFromList.java)|[Java](./Easy/RemoveKFromList.java)|CodeFights|
+|[Remove K From LinkedList](./Easy/RemoveKFromList.java)|[Java](./Easy/RemoveKFromList.java)|CodeFights|
+|[Is List Palindrome](./Easy/IsListPalindrome.java)|[Java](./Easy/IsListPalindrome.java)|CodeFights|
 
 ## Medium
 
