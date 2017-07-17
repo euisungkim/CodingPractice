@@ -20,6 +20,7 @@
 |[Single Number](https://leetcode.com/problems/single-number/#/description)|[Java](./Easy/SingleNumber.java)|LeetCode|
 |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./Easy/InvertTree.java)|LeetCode|
 |[Add Two Huge Numbers](./Easy/AddTwoHugeNumbers.java)|[Java](./Easy/AddTwoHugeNumbers.java)|CodeFights|
+|[Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description)|[Java](./Easy/MoveZeroes.java)|LeetCode|
 
 ## Medium
 
