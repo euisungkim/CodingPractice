@@ -23,7 +23,7 @@ public class MoveZeroes {
   1. Only the non-zero elements in the array order matter.
   2. When non-zero element is found, move it to count^th index (starting from 0)
   3. After it goes through the whole array, count (index) is at one after non-zero element.
-     Therefore, starting from nums[count], we can assign 0 to the
+     Therefore, we can assign 0 to every element from nums[count] to nums[nums.length-1].
 
   Time Complexity: O(n).
     * Let n = every element in nums[] array.
