@@ -17,6 +17,9 @@
 |[Keyboard Row](https://leetcode.com/problems/keyboard-row/#/description)|[Java](./Easy/FindWords.java)|LeetCode|
 |[Remove K From LinkedList](./Easy/RemoveKFromList.java)|[Java](./Easy/RemoveKFromList.java)|CodeFights|
 |[Is List Palindrome](./Easy/IsListPalindrome.java)|[Java](./Easy/IsListPalindrome.java)|CodeFights|
+|[Single Number](https://leetcode.com/problems/single-number/#/description)|[Java](./Easy/SingleNumber.java)|LeetCode|
+|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Java](./Easy/InvertTree.java)|LeetCode|
+|[Add Two Huge Numbers](./Easy/AddTwoHugeNumbers.java)|[Java](./Easy/AddTwoHugeNumbers.java)|CodeFights|
 
 ## Medium
 
